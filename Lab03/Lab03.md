@@ -1,0 +1,1 @@
+In this lab, we explored using the EBYTE LoRa transceiver to perfrom point-to-point communication between devices.
