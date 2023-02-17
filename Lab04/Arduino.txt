@@ -1,0 +1,9 @@
+Welcome to MKR WAN 1300/1310 first configuration sketch
+Register to your favourite LoRa network and we are ready to go!
+Your module version is: ARD-078 1.1.2
+Please make sure that the latest modem firmware is installed.
+To update the firmware upload the 'MKRWANFWUpdate_standalone.ino' sketch.
+Your device EUI is: a8610a34323d6c18
+Are you connecting via OTAA (1) or ABP (2)?
+
+A209859747A39E518F0C1E93F054D1C8
